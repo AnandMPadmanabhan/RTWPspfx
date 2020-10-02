@@ -13,6 +13,6 @@ to return to office for varoius reasons.
 
 2. Host the app in the site.
 
-![alt text](https://github.com/AnandMPadmanabhan/RTWPspfx/blob/master/RTWP_Screenshot.PNG)
+![alt text](https://github.com/AnandMPadmanabhan/RTWPspfx/blob/master/RTWP_Screenshot.png)
 
 
