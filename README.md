@@ -5,6 +5,12 @@ A SPFx form to enable the users to request returning to workplace on certain day
 to return to office for varoius reasons.
 
 1. Create a list for Site, FloorData(containing Site as Lookup) and Requests.
+![alt text](https://github.com/AnandMPadmanabhan/RTWPspfx/blob/master/Site.PNG)
 ![alt text](https://github.com/AnandMPadmanabhan/RTWPspfx/blob/master/FloorData.PNG)
+![alt text](https://github.com/AnandMPadmanabhan/RTWPspfx/blob/master/Request.PNG)
+
+2. Host the app in the site.
+
+![alt text](https://github.com/AnandMPadmanabhan/RTWPspfx/blob/master/RTWP_Screenshot.PNG)
 
 
